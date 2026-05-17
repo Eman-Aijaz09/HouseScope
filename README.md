@@ -134,26 +134,6 @@ This improves trust and interpretability for stakeholders.
 
 ---
 
-## Project Structure
-
-```text
-HouseScope-AI/
-│
-├── notebooks/
-│   └── housescope.ipynb
-│
-├── report/
-│   └── HouseScope_AI.pdf
-│
-├── images/
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
 ## Installation
 
 Clone the repository:
